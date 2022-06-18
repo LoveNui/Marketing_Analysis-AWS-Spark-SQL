@@ -23,10 +23,20 @@ Below you will see dataframes we used to analyze the TV review data.
 
 ## Results
 
-- How many Vine reviews and non-Vine reviews were there?
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### Vine Reviews
+![Vine Reviews](https://github.com/rivas-j/Amazon_Vine_Analysis/blob/818de7cf975e06398ce373e3b502f7954a5c2f07/Resources/vine_reviews.png)
+
+### Unpaid Reviews
+![Unpaid Reviews](https://github.com/rivas-j/Amazon_Vine_Analysis/blob/818de7cf975e06398ce373e3b502f7954a5c2f07/Resources/unpaid_reviews.png)
+
+- In Total there were 255 Vine reviews and 22,675 unpaid reviews
+- Of the 255 Vine reviews, 103 were 5 star reviews (40%)
+- Of the 22,675 unpaid reviews, 10,310 were 5 star reviews (45%)
 
 ## Summary
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Based on the results of our analysis comparing Vine and unpaid reviews, we did not see evidence of positivity bias within the paid reviews. A higher percentage of unpaid reviews were 5 stars. 
+
+Here are some additional levels of analyis we are planning to apply to the current data set:
+- Compare the number of 1 star reviews between Vine and Unpaid to determine any additional patterns
+- Filter the Vine and Unpaid review datasets by verified purchase to add credibility to our review sample analysis
