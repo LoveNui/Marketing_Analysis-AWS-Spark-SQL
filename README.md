@@ -4,7 +4,7 @@
     <img src=images/cloud_etl.png>
 </div>
 
-## <div align="center">Perform Market Analysis with AWS, Spark and SQL</div>
+## <div align="center">Build Data Pipeline with pgAdmin, AWS Cloud and Apache Spark to Analyze and Determine Bias in Amazon Vine Reviews </div>
 
 <p align="center">
 <a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
